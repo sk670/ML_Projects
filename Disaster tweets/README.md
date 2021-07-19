@@ -12,6 +12,7 @@
 | score      | centered        |  
 
 ### Problems solved
+| :------------ |:---------------:| 
 #### Text Normalization 
 ##### Stemming and Lemmatization techniques used to prepare text, words for further processing.
 #### Frequecy Distribution
@@ -20,12 +21,15 @@
 ##### Used Term Frequency Inverse Document Frequency(TFIDF)
 
 ### Model Used
-#### * SVM Model
-#### * Naive Bayes Model
-#### * Logistic Regression Model
+| :------------ |:---------------:| 
+#### 1. SVM Model
+#### 2. Naive Bayes Model
+#### 3. Logistic Regression Model
 
 ### Selection of Model
+| :------------ |:---------------:| 
 #### Logistic Regression Model, as this gives the higher prediction than the Naive Bayes Model and SVM.
 
 ### Result
+| :------------ |:---------------:| 
 ####  Score of Logistic Regression model is 0.7064 
