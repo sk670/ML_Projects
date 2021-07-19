@@ -20,9 +20,9 @@
 ##### Used Term Frequency Inverse Document Frequency(TFIDF)
 
 ### Model Used
-#### SVM Model
-#### Naive Bayes Model
-#### Logistic Regression Model
+#### * SVM Model
+#### * Naive Bayes Model
+#### * Logistic Regression Model
 
 ### Selection of Model
 #### Logistic Regression Model, as this gives the higher prediction than the Naive Bayes Model and SVM.
